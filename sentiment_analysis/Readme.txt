@@ -1,1 +1,0 @@
-This project predicts if a tweet posted by a user has positive or negative sentiments towards iPhone. 
